@@ -92,7 +92,7 @@ onscroll = function popEnd() {
     if(window.scrollY+1 >= document.documentElement.scrollHeight-document.documentElement.clientHeight && firstOne ===1 ){
         openModal()
         firstOne = 2
-
+//
     };
 };
 
